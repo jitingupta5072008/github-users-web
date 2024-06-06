@@ -1,3 +1,17 @@
+# Project Overview
+This project is a single-page React application featuring comprehensive user search functionality with Material-UI integration. It fetches user data from a mock API and displays it in a user-friendly list format. Key features include:
+
+- Search capability by name, phone, or email with dynamic filtering.
+- Highlighting of search terms in the results.
+- Displaying the number of search results and a "No records found" message when applicable.
+- Responsive design ensuring usability across different screen sizes.
+- Error handling for data fetching issues.
+
+The code is clean, maintainable, and leverages modern JavaScript (ES6+), ensuring a robust and efficient user experience.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
