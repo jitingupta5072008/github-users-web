@@ -77,7 +77,7 @@ const Posts = () => {
         <div className='notfound'>
         <h1 className='errorEmoji'>4😮4</h1>
         <h2 className='errorEmoji'>
-          SORRY, QUERY:<u> {searchTerm.toUpperCase()}</u> NOT FOUND
+          NOT FOUND
         </h2>
         </div>
       ) : (
