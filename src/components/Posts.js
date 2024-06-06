@@ -118,7 +118,7 @@ const Posts = () => {
                         autoEscape={true}
                         textToHighlight={`email: ${post.email}`}
                       />
-                      email: {post.email}</Typography>
+                    </Typography>
                     <Typography variant='subtitle2' > <Highlighter
                       highlightClassName='highlight'
                       searchWords={[searchTerm]}
